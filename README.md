@@ -132,10 +132,13 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 23. Jun 10, 10.30. Room U2-05 (backup slot) 
 24. Jun 12, 10.30. Room U2-05 (backup slot)
 
+## Exams
+
+Exam guidelines are available [here](exams.md). Please read that carefully.
 
 ## Past editions
 
-- Current: [dgerosa.github.io/astrostatistics_bicocca](https://dgerosa.github.io/astrostatistics_bicocca)
+- Current: [dgerosa.github.io/astrostatistics](https://dgerosa.github.io/astrostatistics)
 - 2024: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/astrostatistics_bicocca_2024)
 - 2023: [github.com/dgerosa/astrostatistics_bicocca_2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
 - 2022: [github.com/dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
